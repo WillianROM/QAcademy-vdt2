@@ -6,7 +6,6 @@ Library              Browser
 
 *** Keywords ***
 Go To Login Page
-    New Browser      headless=false
     New Page         https://trade-sticker-dev.vercel.app/
 
 Submit Credentials
