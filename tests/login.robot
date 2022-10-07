@@ -21,3 +21,7 @@ Não deve logar com senha incorreta
     Here You Get Page Source
     Toast Message Should Be    Credenciais inválidas, tente novamente!
 
+
+# Deve exibir notificação toaster se a senha não for preenchida
+# Deve exibir notificação toaster se o email não foi preenchido
+# Deve exibir notificação toaster se email e senha não forem preenchidos
